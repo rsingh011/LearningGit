@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("just for testing");
+            Console.WriteLine("just for testing1");
+            Console.WriteLine("this is a second writeline");
         }
     }
 }
