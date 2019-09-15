@@ -12,7 +12,6 @@ namespace ConsoleApp1
         {
             Console.WriteLine("just for testing1");
             Console.WriteLine("this is a second writeline");
-            Console.WriteLine("adding third line");
         }
     }
 }
